@@ -1,0 +1,8 @@
+pandas
+numpy
+music21
+torch
+torchvision
+torchaudio
+matplotlib
+sklearn
